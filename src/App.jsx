@@ -188,21 +188,22 @@ const PAGE_STYLES = `
   .d5 { animation-delay: 0.48s; }
 
   .n28-cta {
-    display:        block;
-    width:          100%;
-    background:     #F5620A;
-    color:          #fff;
-    border:         none;
-    font-family:    'DM Sans', sans-serif;
-    font-weight:    700;
-    font-size:      16px;
-    letter-spacing: 0.4px;
-    padding:        17px 24px;
-    border-radius:  6px;
-    cursor:         pointer;
-    text-align:     center;
-    transition:     background 0.15s, transform 0.15s;
-    animation:      glowBtn 3s ease-in-out infinite;
+    display:         block;
+    width:           100%;
+    background:      #F5620A;
+    color:           #fff;
+    border:          none;
+    font-family:     'DM Sans', sans-serif;
+    font-weight:     700;
+    font-size:       16px;
+    letter-spacing:  0.4px;
+    padding:         17px 24px;
+    border-radius:   6px;
+    cursor:          pointer;
+    text-align:      center;
+    text-decoration: none;
+    transition:      background 0.15s, transform 0.15s;
+    animation:       glowBtn 3s ease-in-out infinite;
   }
   .n28-cta:hover {
     background:  #FF7828;
@@ -356,9 +357,14 @@ export default function App() {
 
           {/* CTA */}
           <div className="pe d4" style={{ marginTop: '20px' }}>
-            <button className="n28-cta">
+            <a
+              href="https://calendly.com/ezkii-n28digital/new-meeting"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="n28-cta"
+            >
               Book Your Strategy Call →
-            </button>
+            </a>
             <p
               style={{
                 textAlign:  'center',
