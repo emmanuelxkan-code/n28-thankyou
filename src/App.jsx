@@ -63,32 +63,20 @@ const Video = () => (
 /* ─── FAQ data ─────────────────────────────────────────── */
 const FAQ_ITEMS = [
   {
-    q: 'How does this work?',
-    a: 'It starts with a free strategy call. We review your business, identify where leads are being lost, and map out what a consistent lead system would look like for your specific trade and location. From there, if it\'s a good fit, we\'ll walk you through how we can help.',
+    q: "I've tried lead services before and they didn't work.",
+    a: "Ads are a science and they work when there's a real system behind them. Most agencies don't have one, we do.",
   },
   {
-    q: 'What types of contractors do you work with?',
-    a: 'We work with Australian trade businesses — renovators, builders, landscapers, painters, roofers, bathroom renovators, plumbers, electricians, and similar. If you run a home service business and want a more consistent pipeline of quality work, this call is for you.',
+    q: "I tried ads before and they didn't work.",
+    a: "Ads are a science and they work when there's a real system behind them. Most agencies don't have one, we do.",
   },
   {
-    q: 'What happens on the strategy call?',
-    a: "It's a focused 30–45 minute session. We'll look at your current lead flow, where the gaps are, and what your market looks like. At the end, we'll be honest with you about whether we're the right fit — no pressure, no hard sell.",
+    q: "How do I know these enquiries will be qualified?",
+    a: "We define your exact qualification criteria upfront and only send through homeowners who match what you're looking for.",
   },
   {
-    q: 'Is this suitable for a small trade business?',
-    a: "Yes, as long as you're serious about growth. We work with sole traders through to established contractors with teams. The strategy call is designed to figure out where you are and what makes sense for your stage of business.",
-  },
-  {
-    q: 'Do you only work with Australian businesses?',
-    a: 'Yes. We focus exclusively on the Australian market. Our campaigns, strategies, and understanding of local contractor businesses are built specifically for this environment.',
-  },
-  {
-    q: 'How long until I see results?',
-    a: "Most clients start seeing movement within the first 30–60 days. Results depend on your trade, location, and how competitive your market is. We'll be upfront about expectations on the call — we'd rather set realistic targets and exceed them.",
-  },
-  {
-    q: 'What does it cost?',
-    a: "Pricing depends on your goals, trade, and what's involved. We'll give you a clear picture on the call once we understand your situation. The strategy session itself is completely free.",
+    q: "What if the homeowners don't answer the phone?",
+    a: "We follow up until they respond and book, so you never have to chase them.",
   },
 ]
 
