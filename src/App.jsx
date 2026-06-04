@@ -65,14 +65,17 @@ const FAQ_ITEMS = [
   {
     q: "I've tried lead services before and they didn't work.",
     a: "Those companies sell you leads, we book estimates with qualified homeowners directly onto your calendar.",
+  },
+  {
+    q: "I tried ads before and they didn't work.",
     a: "Ads are a science and they work when there's a real system behind them. Most agencies don't have one, we do.",
   },
   {
-    q: "How do I know these enquiries will be qualified?",
-    a: "We define your exact qualification criteria upfront and only send through homeowners who match what you're looking for.",
+    q: "How do I know these leads will be qualified?",
+    a: "We define your exact qualification criteria upfront and only send homeowners who meet every requirement.",
   },
   {
-    q: "What if the homeowners don't answer the phone?",
+    q: "What if the leads don't pick up the phone?",
     a: "We follow up until they respond and book, so you never have to chase them.",
   },
 ]
