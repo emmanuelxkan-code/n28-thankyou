@@ -44,7 +44,7 @@ const Video = () => (
     }}
   >
     <iframe
-      src="https://player.vimeo.com/video/1193557003?autoplay=1&muted=1&loop=0&autopause=0&title=0&byline=0&portrait=0&dnt=1"
+      src="https://player.vimeo.com/video/1197865631?autoplay=1&muted=1&loop=0&autopause=0&title=0&byline=0&portrait=0&dnt=1"
       style={{
         position: 'absolute',
         top:      0,
@@ -64,10 +64,7 @@ const Video = () => (
 const FAQ_ITEMS = [
   {
     q: "I've tried lead services before and they didn't work.",
-    a: "Ads are a science and they work when there's a real system behind them. Most agencies don't have one, we do.",
-  },
-  {
-    q: "I tried ads before and they didn't work.",
+    a: "Those companies sell you leads, we book estimates with qualified homeowners directly onto your calendar.",
     a: "Ads are a science and they work when there's a real system behind them. Most agencies don't have one, we do.",
   },
   {
